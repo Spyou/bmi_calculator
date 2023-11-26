@@ -4,4 +4,5 @@
  
 ## Screenshot
 
-<img width="1600" alt="BMI Calculator" src="https://github.com/Spyou/bmi_calculator/assets/88382789/384d74a9-8401-40d6-94d7-ff9f1eb6e2ff">
+
+<img width="1600" alt="BMI CALCULATOR" src="https://github.com/Spyou/bmi_calculator/assets/88382789/c37c02e4-0349-4462-b0ec-df9df0c072d1">
