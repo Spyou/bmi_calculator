@@ -1,4 +1,4 @@
-import 'package:bmi_calculator/config/themes.dart';
+import 'package:bmi_calculator/res/themes.dart';
 import 'package:bmi_calculator/views/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
